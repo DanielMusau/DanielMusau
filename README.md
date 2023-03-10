@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on **an AirBnB clone**
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning **on fundamentals about software engineering.**
 - 👯 I’m looking to collaborate on **open source Python projects**
-- 💬 Ask me about **Python OOP**
+- 💬 Ask me about **Python, OOP**
 - 📫 How to reach me: **danielmusau.dm19@gmail.com**
 - ⚡ Fun fact: **Did you know that a day in Venus is longer than a year on Venus?**
 
