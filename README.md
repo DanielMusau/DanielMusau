@@ -10,21 +10,13 @@
 - 📫 How to reach me: **danielmusau.dm19@gmail.com**
 - ⚡ Fun fact: **Did you know that a day in Venus is longer than a year on Venus?**
 
-## Skills
-- Python
-- C
-- HTML/CSS
-- JavaScript
-- SQL
-- Git
-- Agile development
-- Data analysis and visualization with Python libraries such as Pandas and Matplotlib
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/daniel-musau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-musau" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmbithimusau&show_icons=true&locale=en&layout=compact" alt="danielmbithimusau" /></p>
 
