@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Daniel Musau</h1>
 
-**I am a prospective graduate from the Jomo Kenyatta University of Agriculture and Technology with a degree in Computer Science My coursework included classes in software engineering, algorithms and data structures, and artificial intelligence. I am passionate about using technology to solve real-world problems and hope to pursue a career in software development.**
+**I am a student from the Jomo Kenyatta University of Agriculture and Technology with a degree in Computer Science My coursework included classes in software engineering, algorithms and data structures, and artificial intelligence. I am passionate about using technology to solve real-world problems and hope to pursue a career in software development.**
 
 
 - 🔭 I’m currently working on **an AirBnB clone**
