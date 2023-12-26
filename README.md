@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋, I am Daniel Musau</h1>
 
-**I am a recent graduate from the Jomo Kenyatta University of Agriculture and Technology with a degree in Computer Science My coursework included classes in software engineering, algorithms and data structures, and artificial intelligence. I am passionate about using technology to solve real-world problems and hope to pursue a career in software development.**
+**Since I was at a young age, I have always had a passion for technology and computers, I used to spend countless hours tinkering with software and learning everything I could about how it worked. Today my aim is to become a successful software engineer and to have the opportunity to develop things that may make the world an easier place to live in. I am still driven by my love for technology and I'm always exploring new possibilities to learn and expand my horizon.**
 
 
-- 🔭 I’m currently working on **an AirBnB clone**
 - 🌱 I’m currently learning **Elixir and Phoenix Framework**
-- 👯 I’m looking to collaborate on **open source Python projects**
-- 💬 Ask me about **Python, OOP**
+- 👯 I’m looking to collaborate on **open source Python and Elixir projects**
+- 💬 Ask me about **Python, Elixir, OOP**
 - 📫 How to reach me: **danielmusau.dm19@gmail.com**
 - ⚡ Fun fact: **Did you know that a day in Venus is longer than a year on Venus?**
 
