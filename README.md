@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Elixir and Phoenix Framework**
 - 👯 I’m looking to collaborate on **open source Python and Elixir projects**
 - 💬 Ask me about **Python, Elixir, OOP**
-- 📫 How to reach me: **danielmusau.dm19@gmail.com**
+- 📫 How to reach me: **musaudanielmbithi@gmail.com**
 - ⚡ Fun fact: **Did you know that a day in Venus is longer than a year on Venus?**
 
 <h3 align="left">Connect with me:</h3>
