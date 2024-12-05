@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-musau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-musau" height="30" width="40" /></a>
-<a href="https://dannymusau.medium.com/" target="blank"><img align="center" src="https://drive.google.com/file/d/1nImeoWUdYDtQ_tF5XzEbu82duhcHZB-9/view?usp=sharing" alt="daniel-musau" height="30" width-"40" /></a>
+<a href="https://dannymusau.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/64/medium-logo.png" alt="daniel-musau-medium" height="30" width-"40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
